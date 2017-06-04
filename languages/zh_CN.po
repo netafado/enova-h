@@ -1,0 +1,607 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-08-18 22:23-0300\n"
+"PO-Revision-Date: 2016-08-18 22:23-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: themes/enovafoods\n"
+"X-Poedit-SearchPath-1: plugins/slider-image/slider_front_end.html.php\n"
+"X-Poedit-SearchPathExcluded-0: themes/enovafoods/js\n"
+
+#: plugins/slider-image/slider_front_end.html.php:1148
+msgid "Clique aqui e saiba mais"
+msgstr "找到我们我们"
+
+#: themes/enovafoods/footer-back.php:11 themes/enovafoods/footer.php:27
+msgid "Encontre-nos"
+msgstr "找到我们"
+
+#: themes/enovafoods/footer-back.php:14 themes/enovafoods/footer-back.php:16
+#: themes/enovafoods/footer-back.php:22 themes/enovafoods/footer.php:30
+#: themes/enovafoods/footer.php:32
+msgid "Fábrica"
+msgstr "工厂"
+
+#: themes/enovafoods/footer-back.php:20 themes/enovafoods/footer.php:36
+#: themes/enovafoods/footer.php:38
+msgid "Escritório"
+msgstr "办公室"
+
+#: themes/enovafoods/footer-back.php:27 themes/enovafoods/footer.php:43
+msgid "Newsletter"
+msgstr "通讯"
+
+#: themes/enovafoods/footer-back.php:30 themes/enovafoods/footer.php:46
+msgid ""
+"Seja o primeiro a saber sobre novidades especiais, novos produtos e muitas "
+"outras coisas!"
+msgstr "成为第一个知道特别新闻，新产品和许多其他的事情！"
+
+#: themes/enovafoods/footer-back.php:35 themes/enovafoods/footer.php:51
+#: themes/enovafoods/page-novidades.php:143
+msgid "Assine nossa Newsletter"
+msgstr "订阅我们的新闻"
+
+#: themes/enovafoods/footer-back.php:77 themes/enovafoods/footer.php:93
+msgid "Não se esqueça de dar uma olhada em nossos"
+msgstr "订们的新闻"
+
+#: themes/enovafoods/footer-back.php:79 themes/enovafoods/footer.php:95
+msgid "Termos de Uso"
+msgstr "订阅我"
+
+#: themes/enovafoods/footer-back.php:83 themes/enovafoods/footer.php:99
+msgid "Políticas de Privacidade"
+msgstr "隐私政策"
+
+#: themes/enovafoods/footer-back.php:84 themes/enovafoods/footer.php:100
+msgid "e no site do "
+msgstr "和现场"
+
+#: themes/enovafoods/footer-back.php:87 themes/enovafoods/footer.php:103
+msgid "Desenvolvedor."
+msgstr "开发人员。"
+
+#: themes/enovafoods/footer.php:9
+msgid "Idioma"
+msgstr "产品和"
+
+#: themes/enovafoods/functions.php:309
+msgid "Dados Técnicos"
+msgstr "发人员。"
+
+#: themes/enovafoods/functions.php:312
+msgid "Tabela Nutricional"
+msgstr "营养成分"
+
+#: themes/enovafoods/functions.php:316
+msgid "Ingredientes"
+msgstr "成分"
+
+#: themes/enovafoods/functions.php:708
+msgid "menu footer"
+msgstr ""
+
+#: themes/enovafoods/functions.php:709
+msgid "menu header"
+msgstr ""
+
+#: themes/enovafoods/functions.php:738 themes/enovafoods/functions.php:747
+msgid "novidades"
+msgstr "新闻"
+
+#: themes/enovafoods/functions.php:741
+msgid "Novidades"
+msgstr "新闻"
+
+#: themes/enovafoods/functions.php:742
+msgid "Novidade"
+msgstr "新闻"
+
+#: themes/enovafoods/functions.php:751
+msgid "representantes"
+msgstr "代表"
+
+#: themes/enovafoods/functions.php:754
+msgid "Representantes"
+msgstr "代表"
+
+#: themes/enovafoods/functions.php:755
+msgid "Representante"
+msgstr "代表"
+
+#: themes/enovafoods/functions.php:760
+msgid "representantes-enovas"
+msgstr ""
+
+#: themes/enovafoods/functions.php:764
+msgid "receitas"
+msgstr "收入"
+
+#: themes/enovafoods/functions.php:767
+msgid "Receitas"
+msgstr "收入"
+
+#: themes/enovafoods/functions.php:768
+msgid "Receita"
+msgstr "收入"
+
+#: themes/enovafoods/functions.php:773
+msgid "receitas-enovas"
+msgstr ""
+
+#: themes/enovafoods/functions.php:777
+msgid "produtos"
+msgstr "制品"
+
+#: themes/enovafoods/functions.php:780
+msgid "Produtos"
+msgstr "制品"
+
+#: themes/enovafoods/functions.php:781
+msgid "produto"
+msgstr "制品"
+
+#: themes/enovafoods/functions.php:786
+msgid "produtos-enova"
+msgstr "新闻ENOVA食品"
+
+#: themes/enovafoods/marca.php:122
+msgid "Saiba mais"
+msgstr "了解更多"
+
+#: themes/enovafoods/marca.php:132
+msgid "Vantagens & Benefícios"
+msgstr "解了多更"
+
+#: themes/enovafoods/marca.php:152 themes/enovafoods/page-institucional.php:75
+msgid "Conheça nossos produtos"
+msgstr "认识我们的产品"
+
+#: themes/enovafoods/marca.php:154
+msgid ""
+"Clique em uma das categorias abaixo e conheça nossa linha completa de "
+"produtos."
+msgstr "点击下面的类别之一了解我们完整的产品线。"
+
+#: themes/enovafoods/page-busca.php:23
+#: themes/enovafoods/parts/content/search-statico.php:6
+msgid "Resultado da Busca"
+msgstr "搜索结果"
+
+#: themes/enovafoods/page-busca.php:87
+#: themes/enovafoods/parts/content/search-nothing.php:8
+msgid "Nenhum item encontrado."
+msgstr "搜索结果"
+
+#: themes/enovafoods/page-contato.php:38
+msgid ""
+"Se você possui muita informação para nos deixar, uma mensagem é um excelente "
+"meio de contato. Retornaremos o mais breve possível."
+msgstr "如果你有大量的信息给我们留言是接触的极好手段。我们会尽快回复。"
+
+#: themes/enovafoods/page-contato.php:58
+msgid "Assuntos"
+msgstr "主题"
+
+#: themes/enovafoods/page-contato.php:61
+msgid "Dúvidas"
+msgstr "疑惑"
+
+#: themes/enovafoods/page-contato.php:64
+msgid "Sugestões"
+msgstr "疑"
+
+#: themes/enovafoods/page-contato.php:67
+msgid "Reclamações"
+msgstr "投诉"
+
+#: themes/enovafoods/page-contato.php:70
+msgid "Elogios"
+msgstr "诉"
+
+#: themes/enovafoods/page-contato.php:73
+msgid "Trabalhe conosco"
+msgstr "与我们合作"
+
+#: themes/enovafoods/page-contato.php:76
+msgid "Outros"
+msgstr "们"
+
+#: themes/enovafoods/page-contato.php:88
+msgid "Enviar Mensagem"
+msgstr "与我们合作"
+
+#: themes/enovafoods/page-contato.php:91
+msgid "Deseja enviar a mensagem com uma conta diferente?"
+msgstr "你想用不同的账户发送邮件？"
+
+#: themes/enovafoods/page-contato.php:93
+msgid "Clique aqui."
+msgstr "请点击这里。"
+
+#: themes/enovafoods/page-contato.php:102
+msgid "Mantenha-se em contato"
+msgstr "保持联系"
+
+#: themes/enovafoods/page-contato.php:107
+msgid ""
+"Precisa de ajuda com algo? Uma ligação é sempre o melhor caminho para tratar "
+"de assuntos importantes. Você será sempre muito bem atendido. Ou se "
+"preferir, encontre-nos através de um dos endereços abaixo:"
+msgstr ""
+"需要帮助的东西？链接总是处理重要问题的最佳途径。你总是会很热烈。或者，如果你"
+"愿意，找到我们通过下面的地址之一："
+
+#: themes/enovafoods/page-contato.php:112
+msgid "E-mail SAC:"
+msgstr "电子邮件SAC："
+
+#: themes/enovafoods/page-contato.php:120
+msgid "email:"
+msgstr "电子邮件"
+
+#: themes/enovafoods/page-contato.php:128
+msgid "Fábrica, Catanduva"
+msgstr "厂，Catanduva"
+
+#: themes/enovafoods/page-contato.php:134
+msgid "Fábrica, Queluz "
+msgstr "厂，Queluz "
+
+#: themes/enovafoods/page-contato.php:137
+#: themes/enovafoods/page-contato.php:145
+#: themes/enovafoods/page-contato.php:152
+msgid "ver no mapa"
+msgstr "查看地图"
+
+#: themes/enovafoods/page-contato.php:142
+msgid "Escritório, São Paulo"
+msgstr "办公室，São Paulo"
+
+#: themes/enovafoods/page-contato.php:150
+msgid "Fábrica, Rio de Janeiro"
+msgstr "工厂，Rio de Janeiro"
+
+#: themes/enovafoods/page-contato.php:157
+#: themes/enovafoods/page-novidades.php:134
+msgid "Assine nossa newsletter"
+msgstr "订阅我们的通讯"
+
+#: themes/enovafoods/page-gdrive.php:24
+msgid "Arquivos para desenvolvedores"
+msgstr "档案馆开发商"
+
+#: themes/enovafoods/page-gdrive.php:29
+#: themes/enovafoods/page-institucional.php:122
+msgid ""
+"Estamos felizes que você esteja integrando-se a Enova Foods. Reunimos alguns "
+"arquivos úteis para que você possa usá-los em seus projetos. Você pode usar "
+"o nome Enova Foods e logotipos para qualquer coisa relacionada à nossa "
+"Companhia, tais como materiais de marketing, desde que você siga nossas "
+"diretrizes de uso da marca. Sugerimos que entre em contato para mais "
+"informações e detalhes sobre a aplicação e manuseio."
+msgstr ""
+"我们很高兴你正在整合易诺华食品。我们已经收集了一些有用的文件，所以你可以在自"
+"己的项目中使用它们。您可以使用易诺华食品名称和标识的相关公司，如营销材料任何"
+"东西，只要你按照我们的品牌使用指南。我们建议您为应用程序和处理的更多信息和细"
+"节联系。"
+
+#: themes/enovafoods/page-gdrive.php:41
+msgid "Para visualizar este conteúdo você precisa estar "
+msgstr "一些有用的文件，所以你可以在自己的项目中使用它们。您可以使用易诺"
+
+#: themes/enovafoods/page-gdrive.php:42
+msgid "logado</a> em sua conta no Google e possuir as devidas permissões."
+msgstr "我们很高兴你正在整合易"
+
+#: themes/enovafoods/page-gdrive.php:44
+#: themes/enovafoods/page-institucional.php:132
+msgid "Entre em contato"
+msgstr "我们已经收"
+
+#: themes/enovafoods/page-gdrive.php:46
+msgid "com nossa equipe para solicitar permissão."
+msgstr "与我们的团队请求权限。"
+
+#: themes/enovafoods/page-institucional.php:119
+msgid "Arquivos da Marca para Desenvolvedores"
+msgstr "与我们的品牌档案开发者"
+
+#: themes/enovafoods/page-institucional.php:127
+msgid "Acesse o diretório"
+msgstr "进入目录"
+
+#: themes/enovafoods/page-institucional.php:132
+msgid "Não encontrou o arquivo que estava procurando?"
+msgstr "没有找到你要找的文件？"
+
+#: themes/enovafoods/page-novidades.php:63
+msgid "NOVIDADES ENOVA FOODS"
+msgstr "新闻ENOVA食品"
+
+#: themes/enovafoods/page-novidades.php:68
+msgid ""
+"Fique por dentro de todas as novidades em eventos, notícias especiais, novos "
+"produtos e muito mais!"
+msgstr "停留在对活动，特别新闻，新产品和更多的所有的新闻顶！"
+
+#: themes/enovafoods/page-novidades.php:117
+msgid "Continue lendo..."
+msgstr "继续阅读..."
+
+#: themes/enovafoods/page-novidades.php:131
+msgid ""
+"Conecte-se ainda mais com a família Enova Foods! Confira fotos, assista a "
+"vídeos e leia tudo sobre nossas últimas publicações."
+msgstr ""
+"连接多用Enova中食品的家庭！查看照片，观看视频和阅读所有关于我们的最新出版物。"
+
+#: themes/enovafoods/page-novidades.php:138
+msgid "Não fique por fora de nenhuma novidade, assine nossa Newsletter."
+msgstr "出去的任何消息，请订阅我们的通讯。"
+
+#: themes/enovafoods/page-novidades.php:148
+msgid "Compartilhe!"
+msgstr "分享！"
+
+#: themes/enovafoods/page-receitas.php:89
+msgid "Modo de preparo"
+msgstr "准备"
+
+#: themes/enovafoods/page-receitas.php:90
+msgid "Assar"
+msgstr "烘"
+
+#: themes/enovafoods/page-receitas.php:91
+msgid "Gelar"
+msgstr "冻结"
+
+#: themes/enovafoods/page-receitas.php:92
+msgid "Cozinhar"
+msgstr "厨师"
+
+#: themes/enovafoods/page-receitas.php:101
+msgid "Dificuldade"
+msgstr "困难"
+
+#: themes/enovafoods/page-receitas.php:102
+msgid "Médio"
+msgstr "平均"
+
+#: themes/enovafoods/page-receitas.php:103
+msgid "Fácil "
+msgstr "易"
+
+#: themes/enovafoods/page-receitas.php:112
+#: themes/enovafoods/single-receitas.php:115
+msgid "Ocasião"
+msgstr "时间"
+
+#: themes/enovafoods/page-receitas.php:113
+msgid "Festa"
+msgstr "聚会"
+
+#: themes/enovafoods/page-receitas.php:114
+msgid "Sobremesa"
+msgstr "会聚"
+
+#: themes/enovafoods/page-receitas.php:115
+msgid "Café da tarde"
+msgstr "午后咖啡"
+
+#: themes/enovafoods/page-receitas.php:116
+msgid "Almoço"
+msgstr "午餐"
+
+#: themes/enovafoods/page-receitas.php:139
+#: themes/enovafoods/single-receitas.php:74
+msgid "Envie sua receita para nós"
+msgstr "发送你的食谱给我们"
+
+#: themes/enovafoods/page-representantes-back.php:52
+#: themes/enovafoods/parts/pages/page-repr_static.php:45
+msgid "Pesquisar"
+msgstr "研究"
+
+#: themes/enovafoods/page-representantes-back.php:60
+#: themes/enovafoods/page-representantes-back.php:159
+#: themes/enovafoods/page-representantes.php:33
+#: themes/enovafoods/parts/pages/page-repr_static.php:53
+msgid "Seja um representante da Enova Foods"
+msgstr "要易诺华食品的代表"
+
+#: themes/enovafoods/parts/index/index-static.php:7
+msgid "Qualidade e Inovação"
+msgstr "质量与创新"
+
+#: themes/enovafoods/parts/index/index-static.php:10
+msgid ""
+"Estas são as duas palavras que nos guiam em todas as nossas atividades para "
+"oferecer o que há de melhor para a família brasileira. Confira nossas marcas "
+"e linhas de produtos, você irá se surpreender."
+msgstr ""
+"这是两个词指导我们的所有活动提供什么是最适合巴西家庭。检查我们的品牌和产品"
+"线，你会感到惊讶。"
+
+#: themes/enovafoods/parts/index/index-static.php:18
+msgid "Selecione para você"
+msgstr "选择适合你"
+
+#: themes/enovafoods/parts/index/index-static.php:21
+msgid ""
+"Garantimos que nossos produtos sejam criados com todo o cuidado e carinho "
+"que as famílias merecem. E é por isso que nossos produtos são sinônimo de "
+"qualidade, sucesso e aceitação por todos que nos conhecem."
+msgstr ""
+"我们保证我们的产品具有极大的关怀和亲情的家庭应该创建。这就是为什么我们的产品"
+"质量，成功和接受所有谁知道我们的代名词。"
+
+#: themes/enovafoods/parts/index/index-static.php:28
+msgid "Garantia e Qualidade"
+msgstr "保修和质量"
+
+#: themes/enovafoods/parts/index/index-static.php:31
+msgid ""
+"Quem experimenta confirma. Quem revende reconhece a competência dos nossos "
+"profissionais e representantes comerciais. Quem vende percebe valor, "
+"rentabilidade e uma companhia responsável e comprometida."
+msgstr ""
+"谁的经验证明。谁转售承认我们的工作人员和销售代表的能力。谁销售实现价值，盈利"
+"能力，负责任的和坚定的公司。"
+
+#: themes/enovafoods/parts/index/index-static.php:56
+msgid "ENTRAR"
+msgstr "和质量"
+
+#: themes/enovafoods/parts/index/index-static.php:59
+msgid "Olá visitante, é bom ve-lo novamente."
+msgstr "访客您好，很高兴再次见到你。"
+
+#: themes/enovafoods/parts/index/index-static.php:71
+#: themes/enovafoods/parts/index/index-static.php:95
+msgid "Esqueci minha senha"
+msgstr "我忘记了密码"
+
+#: themes/enovafoods/parts/index/index-static.php:80
+#: themes/enovafoods/parts/index/index-static.php:116
+msgid "Ainda não possui uma conta? Clique aqui"
+msgstr "没有帐号吗？点击这里"
+
+#: themes/enovafoods/parts/index/index-static.php:91
+msgid "Voltar"
+msgstr "回报"
+
+#: themes/enovafoods/parts/index/index-static.php:99
+msgid ""
+"Insira seu endereço de e-mail para resetar sua senha. Talvez você necessite "
+"ver sua pasta de spam."
+msgstr "输入您的电子邮件地址来重置您的密码。您可能需要看到您的垃圾邮件文件夹。"
+
+#: themes/enovafoods/parts/index/index-static.php:108
+msgid "Confirmar"
+msgstr "确认"
+
+#: themes/enovafoods/parts/nav/nav-main.php:82
+msgid "Configurações"
+msgstr "设置"
+
+#: themes/enovafoods/parts/nav/nav-main.php:85
+msgid "Sair"
+msgstr "离开"
+
+#: themes/enovafoods/parts/pages/page-repr_default.php:45
+msgid "Anteriores"
+msgstr "前"
+
+#: themes/enovafoods/parts/pages/page-repr_default.php:49
+msgid "Próximo"
+msgstr "关闭"
+
+#: themes/enovafoods/parts/pages/page-repr_static.php:40
+msgid "Digite a palavra-chave"
+msgstr "输入关键字"
+
+#: themes/enovafoods/parts/pages/page-repr_termos.php:57
+msgid "Nenhum representante encontrado com esse termo."
+msgstr "无代表会晤这个词。"
+
+#: themes/enovafoods/searchform.php:5
+msgid "Digite a palavra chave aqui..."
+msgstr "在这里输入的关键词..."
+
+#: themes/enovafoods/single-receitas.php:28
+msgid "Voltar para todas as receitas"
+msgstr "返回所有食谱"
+
+#: themes/enovafoods/single-receitas.php:38
+#: themes/enovafoods/single-receitas.php:138
+#: themes/enovafoods/single-receitas.php:179
+msgid "Ingredientes:"
+msgstr "成分："
+
+#: themes/enovafoods/single-receitas.php:47
+#: themes/enovafoods/single-receitas.php:141
+#: themes/enovafoods/single-receitas.php:182
+msgid "Modo de preparo:"
+msgstr "准备工作"
+
+#: themes/enovafoods/single-receitas.php:60
+msgid "INGREDIENTES"
+msgstr "成份"
+
+#: themes/enovafoods/single-receitas.php:64
+msgid "MODO DE PREPARO"
+msgstr "如何准备"
+
+#: themes/enovafoods/single-receitas.php:96
+msgid "Informações da receita"
+msgstr "配方信息"
+
+#: themes/enovafoods/single-receitas.php:99
+msgid "Rendimentos"
+msgstr "收入"
+
+#: themes/enovafoods/single-receitas.php:99
+#: themes/enovafoods/single-receitas.php:145
+#: themes/enovafoods/single-receitas.php:186
+msgid "pessoas"
+msgstr "人"
+
+#: themes/enovafoods/single-receitas.php:103
+msgid "Tempo de Preparo"
+msgstr "准备时间"
+
+#: themes/enovafoods/single-receitas.php:103
+msgid "minutos"
+msgstr "分钟"
+
+#: themes/enovafoods/single-receitas.php:107
+msgid "Grau de Dificuldade"
+msgstr "难度"
+
+#: themes/enovafoods/single-receitas.php:111
+msgid "Modo de Preparo"
+msgstr "准备"
+
+#: themes/enovafoods/single-receitas.php:123
+#: themes/enovafoods/single-receitas.php:169
+msgid "Imprimir"
+msgstr "打印"
+
+#: themes/enovafoods/single-receitas.php:125
+msgid "Envie por e-mail"
+msgstr "通过电子邮件发送"
+
+#: themes/enovafoods/single-receitas.php:132
+#: themes/enovafoods/single-receitas.php:173
+msgid "Receita:"
+msgstr "食谱："
+
+#: themes/enovafoods/single-receitas.php:135
+#: themes/enovafoods/single-receitas.php:176
+msgid "Descrição:"
+msgstr "说明："
+
+#: themes/enovafoods/single-receitas.php:144
+#: themes/enovafoods/single-receitas.php:185
+msgid "Rendimentos:"
+msgstr "收入："
+
+#: themes/enovafoods/single-receitas.php:150
+msgid "Produtos Relacionados"
+msgstr "相关产品"
+
+#: themes/enovafoods/single-receitas.php:192
+msgid "Enviar"
+msgstr "发送"

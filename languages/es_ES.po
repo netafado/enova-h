@@ -1,0 +1,1000 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-04-22 17:22-0300\n"
+"PO-Revision-Date: 2017-04-22 17:52-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: themes/enovafoods\n"
+"X-Poedit-SearchPath-1: plugins/slider-image\n"
+"X-Poedit-SearchPath-2: plugins/ultimate-member/core/um-actions-login.php\n"
+"X-Poedit-SearchPath-3: plugins/ultimate-member/templates/account.php\n"
+"X-Poedit-SearchPath-4: plugins/ultimate-member/core/um-actions-password.php\n"
+"X-Poedit-SearchPath-5: plugins/ultimate-member/core/um-fields.php\n"
+"X-Poedit-SearchPathExcluded-0: themes/enovafoods/js\n"
+
+#: plugins/slider-image/slider.php:725
+msgid "Huge IT Slider"
+msgstr ""
+
+#: plugins/slider-image/slider.php:771
+msgid "Title:"
+msgstr ""
+
+#: plugins/slider-image/slider.php:774
+msgid "Select Slider:"
+msgstr ""
+
+#: plugins/slider-image/slider_front_end.html.php:1148
+msgid "Clique aqui e saiba mais"
+msgstr "Haz clic aquí y conoce más."
+
+#: plugins/slider-image/sliders.php:531
+msgid "Item Deleted."
+msgstr ""
+
+#: plugins/slider-image/sliders.php:644
+msgid "Item Saved"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-actions-login.php:16
+msgid "Please enter your username or email"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-actions-login.php:20
+msgid "Please enter your username"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-actions-login.php:24
+msgid "Please enter your email"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-actions-login.php:48
+msgid " Sorry, we can't find an account with that email address"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-actions-login.php:50
+msgid " Sorry, we can't find an account with that username"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-actions-login.php:54
+msgid "Please enter your password"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-actions-login.php:62
+msgid "Password is incorrect. Please try again."
+msgstr ""
+
+#: plugins/ultimate-member/core/um-actions-login.php:130
+msgid "This action has been prevented for security measures."
+msgstr ""
+
+#: plugins/ultimate-member/core/um-actions-login.php:204
+msgid "Keep me signed in"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-actions-login.php:209
+msgid "Entrar"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-actions-login.php:237
+msgid "Forgot your password?"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-actions-password.php:80
+#: plugins/ultimate-member/core/um-actions-password.php:111
+msgid "Hello, spam bot!"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-actions-password.php:83
+#: plugins/ultimate-member/core/um-actions-password.php:114
+msgid ""
+"Whoa, slow down! You're seeing this message because you tried to submit a "
+"form too fast and we think you might be a spam bot. If you are a real human "
+"being please wait a few seconds before submitting the form. Thanks!"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-actions-password.php:86
+msgid "Please provide your username or email"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-actions-password.php:92
+msgid " We can't find an account registered with that address or username "
+msgstr ""
+
+#: plugins/ultimate-member/core/um-actions-password.php:117
+msgid "You must enter a new password"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-actions-password.php:123
+msgid "Your password must contain at least 8 characters"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-actions-password.php:127
+msgid "Your password must contain less than 30 characters"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-actions-password.php:131
+msgid ""
+"Your password must contain at least one lowercase letter, one capital letter "
+"and one number"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-actions-password.php:137
+msgid "You must confirm your new password"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-actions-password.php:141
+msgid "Your passwords do not match"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-actions-password.php:194
+msgid "Reset my password"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-actions-password.php:230
+msgid "Atualizar"
+msgstr "Cambiar"
+
+#: plugins/ultimate-member/core/um-actions-password.php:232
+msgid "Sobre sua senha"
+msgstr "Sobre su contraseña"
+
+#: plugins/ultimate-member/core/um-fields.php:578
+msgid "Custom Field"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-fields.php:841
+msgid "Please upload a valid image!"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-fields.php:848
+#: plugins/ultimate-member/core/um-fields.php:869
+msgid "Upload"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-fields.php:849
+msgid "Sorry this is not a valid image."
+msgstr ""
+
+#: plugins/ultimate-member/core/um-fields.php:850
+msgid "This image is too large!"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-fields.php:851
+msgid "This image is too small!"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-fields.php:852
+msgid "You can only upload one image"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-fields.php:910
+msgid "CEP"
+msgstr "CP"
+
+#: plugins/ultimate-member/core/um-fields.php:914
+msgid "Complemento"
+msgstr "Complemento"
+
+#: plugins/ultimate-member/core/um-fields.php:918
+msgid "Bairro"
+msgstr "Barrio"
+
+#: plugins/ultimate-member/core/um-fields.php:922
+msgid "Cidade"
+msgstr "Ciudad"
+
+#: plugins/ultimate-member/core/um-fields.php:926
+msgid "Endereço"
+msgstr "Dirección"
+
+#: plugins/ultimate-member/core/um-fields.php:930
+#: themes/enovafoods/page-contato.php:70
+msgid "Telefone"
+msgstr "Teléfono"
+
+#: plugins/ultimate-member/core/um-fields.php:934
+msgid "Sexo"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-fields.php:938
+msgid "Estado / UF"
+msgstr "Estado/Provincia"
+
+#: plugins/ultimate-member/core/um-fields.php:1122
+msgid "Current Password"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-fields.php:1143
+#: plugins/ultimate-member/core/um-fields.php:1161
+msgid "New Password"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-fields.php:1145
+#: plugins/ultimate-member/templates/account.php:28
+#: themes/enovafoods/parts/index/index-static.php:65
+msgid "Senha"
+msgstr "Contraseña"
+
+#: plugins/ultimate-member/core/um-fields.php:1191
+msgid "Confirm Password"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-fields.php:1366
+#: plugins/ultimate-member/core/um-fields.php:1448
+msgid "Upload Photo"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-fields.php:1385
+#: plugins/ultimate-member/core/um-fields.php:1418
+msgid "Change photo"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-fields.php:1418
+#: plugins/ultimate-member/core/um-fields.php:1503
+msgid "Processing..."
+msgstr ""
+
+#: plugins/ultimate-member/core/um-fields.php:1418
+msgid "Apply"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-fields.php:1419
+#: plugins/ultimate-member/core/um-fields.php:1504
+msgid "Cancel"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-fields.php:1464
+#: plugins/ultimate-member/core/um-fields.php:1503
+msgid "Change file"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-fields.php:1503
+msgid "Save"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-fields.php:2205
+#, php-format
+msgid ""
+"Your profile is looking a little empty. Why not <a href=\"%s\">add</a> some "
+"information!"
+msgstr ""
+
+#: plugins/ultimate-member/core/um-fields.php:2207
+msgid "This user has not added any information to their profile yet."
+msgstr ""
+
+#: plugins/ultimate-member/templates/account.php:14
+msgid ""
+"Edite seus dados pessoais como: nome, endereço e telefone. É importante "
+"manter estes dados sempre atualizados para que possamos contatá-lo com mais "
+"eficácia."
+msgstr ""
+"Edite sus datos personales como: nombre, dirección y teléfono. Es importante "
+"mantener estos datos siempre actualizados para que podamos contactarlo con "
+"más eficacia."
+
+#: plugins/ultimate-member/templates/account.php:23
+msgid "Informações"
+msgstr "Informaciones"
+
+#: plugins/ultimate-member/templates/account.php:33
+#: themes/enovafoods/footer-back.php:27 themes/enovafoods/footer.php:43
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: plugins/ultimate-member/templates/account.php:138
+msgid "Novidades Enova Foods direto no seu E-mail!"
+msgstr "¡Novedades Enova Foods directo en su correo electrónico!"
+
+#: plugins/ultimate-member/templates/account.php:141
+msgid ""
+"Quer ser o primeiro a saber sobre novidades especiais, novos produtos, "
+"promoções, conteúdos em destaques, eventos e muitos mais? Basta um clique."
+msgstr ""
+"¿Quiere ser el primero a saber sobre novedades especiales, nuevos productos, "
+"promociones, contenidos en destaques, eventos y mucho más? Basta un clic."
+
+#: plugins/ultimate-member/templates/account.php:144
+msgid "Deseja receber novidades da Enova Foods."
+msgstr "Desea recibir novedades de Enova Foods."
+
+#: themes/enovafoods/footer-back.php:11 themes/enovafoods/footer.php:27
+msgid "Encontre-nos"
+msgstr "Encuéntrenos"
+
+#: themes/enovafoods/footer-back.php:14 themes/enovafoods/footer-back.php:16
+#: themes/enovafoods/footer-back.php:22
+#: themes/enovafoods/parts/pages/page-info.php:34
+#: themes/enovafoods/parts/pages/page-info.php:39
+msgid "Fábrica"
+msgstr ""
+
+#: themes/enovafoods/footer-back.php:20
+#: themes/enovafoods/parts/pages/page-info.php:40
+#: themes/enovafoods/parts/pages/page-info.php:42
+msgid "Escritório"
+msgstr "Oficina"
+
+#: themes/enovafoods/footer-back.php:30 themes/enovafoods/footer.php:46
+msgid ""
+"Seja o primeiro a saber sobre novidades especiais, novos produtos e muitas "
+"outras coisas!"
+msgstr ""
+"¡Sea el primero a saber, sobre novedades especiales, nuevos productos y "
+"muchas otras cosas!"
+
+#: themes/enovafoods/footer-back.php:35 themes/enovafoods/footer.php:51
+#: themes/enovafoods/page-novidades.php:143
+msgid "Assine nossa Newsletter"
+msgstr "Suscriba nuestra Newsletter"
+
+#: themes/enovafoods/footer-back.php:77 themes/enovafoods/footer.php:93
+msgid "Não se esqueça de dar uma olhada em nossos"
+msgstr "No se olvide de dar una mirada en nuestros "
+
+#: themes/enovafoods/footer-back.php:79 themes/enovafoods/footer.php:95
+msgid "Termos de Uso"
+msgstr "Términos de Uso"
+
+#: themes/enovafoods/footer-back.php:83 themes/enovafoods/footer.php:99
+msgid "Políticas de Privacidade"
+msgstr ", Políticas de Privacidad"
+
+#: themes/enovafoods/footer-back.php:84 themes/enovafoods/footer.php:100
+msgid "e no site do "
+msgstr "Privacidad y en la página del"
+
+#: themes/enovafoods/footer-back.php:87 themes/enovafoods/footer.php:103
+msgid "Desenvolvedor."
+msgstr "Desarrollador."
+
+#: themes/enovafoods/footer.php:9
+msgid "Idioma"
+msgstr ""
+
+#: themes/enovafoods/footer.php:30
+msgid "Fábrica, Catanduva"
+msgstr ""
+
+#: themes/enovafoods/footer.php:32
+msgid "Fábrica, Queluz"
+msgstr ""
+
+#: themes/enovafoods/footer.php:36
+msgid "Escritório, São Paulo"
+msgstr "Oficina, São Paulo"
+
+#: themes/enovafoods/footer.php:38
+msgid "Escritório, Rio de Janeiro"
+msgstr "Oficina, Rio de Janeiro"
+
+#: themes/enovafoods/functions.php:309
+msgid "Dados Técnicos"
+msgstr ""
+
+#: themes/enovafoods/functions.php:312
+msgid "Tabela Nutricional"
+msgstr ""
+
+#: themes/enovafoods/functions.php:316
+msgid "Ingredientes"
+msgstr ""
+
+#: themes/enovafoods/functions.php:708
+msgid "menu footer"
+msgstr ""
+
+#: themes/enovafoods/functions.php:709
+msgid "menu header"
+msgstr ""
+
+#: themes/enovafoods/functions.php:738 themes/enovafoods/functions.php:747
+msgid "novidades"
+msgstr ""
+
+#: themes/enovafoods/functions.php:741
+msgid "Novidades"
+msgstr ""
+
+#: themes/enovafoods/functions.php:742
+msgid "Novidade"
+msgstr ""
+
+#: themes/enovafoods/functions.php:751
+msgid "representantes"
+msgstr ""
+
+#: themes/enovafoods/functions.php:754
+msgid "Representantes"
+msgstr ""
+
+#: themes/enovafoods/functions.php:755
+msgid "Representante"
+msgstr ""
+
+#: themes/enovafoods/functions.php:760
+msgid "representantes-enovas"
+msgstr ""
+
+#: themes/enovafoods/functions.php:764
+msgid "receitas"
+msgstr ""
+
+#: themes/enovafoods/functions.php:767
+msgid "Receitas"
+msgstr ""
+
+#: themes/enovafoods/functions.php:768
+msgid "Receita"
+msgstr ""
+
+#: themes/enovafoods/functions.php:773
+msgid "receitas-enovas"
+msgstr ""
+
+#: themes/enovafoods/functions.php:777
+msgid "produtos"
+msgstr ""
+
+#: themes/enovafoods/functions.php:780
+msgid "Produtos"
+msgstr ""
+
+#: themes/enovafoods/functions.php:781
+msgid "produto"
+msgstr ""
+
+#: themes/enovafoods/functions.php:786
+msgid "produtos-enova"
+msgstr ""
+
+#: themes/enovafoods/marca.php:122
+msgid "Saiba mais"
+msgstr "Sepa más"
+
+#: themes/enovafoods/marca.php:132
+msgid "Vantagens & Benefícios"
+msgstr "VENTAJAS & BENEFICIOS"
+
+#: themes/enovafoods/marca.php:152 themes/enovafoods/page-institucional.php:75
+msgid "Conheça nossos produtos"
+msgstr "CONOZCA NUESTROS PRODUCTOS "
+
+#: themes/enovafoods/marca.php:154
+msgid ""
+"Clique em uma das categorias abaixo e conheça nossa linha completa de "
+"produtos."
+msgstr ""
+"haga clic en una de las categorías a seguir y conozca nuestra línea completa "
+"de productos."
+
+#: themes/enovafoods/page-busca.php:23
+#: themes/enovafoods/parts/content/search-statico.php:6
+msgid "Resultado da Busca"
+msgstr "Resultado de la Búsqueda "
+
+#: themes/enovafoods/page-busca.php:87
+#: themes/enovafoods/parts/content/search-nothing.php:8
+msgid "Nenhum item encontrado."
+msgstr "No se encontraron artículos."
+
+#: themes/enovafoods/page-contato.php:57
+msgid ""
+"Se você possui muita informação para nos deixar, uma mensagem é um excelente "
+"meio de contato. Retornaremos o mais breve possível."
+msgstr ""
+"Si usted tiene mucha información para dejarnos, un mensaje es un excelente "
+"medio de contacto. Retornaremos lo más breve posible."
+
+#: themes/enovafoods/page-contato.php:77
+msgid "Assuntos"
+msgstr "Asunto"
+
+#: themes/enovafoods/page-contato.php:80
+msgid "Dúvidas"
+msgstr "Dudas"
+
+#: themes/enovafoods/page-contato.php:83
+msgid "Sugestões"
+msgstr "Sugerencias"
+
+#: themes/enovafoods/page-contato.php:86
+msgid "Reclamações"
+msgstr "Reclamaciones"
+
+#: themes/enovafoods/page-contato.php:89
+msgid "Elogios"
+msgstr "Elogios"
+
+#: themes/enovafoods/page-contato.php:92
+msgid "Trabalhe conosco"
+msgstr "Trabaje con nosotros"
+
+#: themes/enovafoods/page-contato.php:95
+msgid "Outros"
+msgstr "Otros"
+
+#: themes/enovafoods/page-contato.php:105
+msgid "Digite sua mensagem"
+msgstr "Escriba su mensaje"
+
+#: themes/enovafoods/page-contato.php:107
+msgid "Enviar Mensagem"
+msgstr "Enviar mensaje"
+
+#: themes/enovafoods/page-contato.php:110
+msgid "Deseja enviar a mensagem com uma conta diferente?"
+msgstr "¿Desea enviar el mensaje con una cuenta diferente? Haga clic aquí."
+
+#: themes/enovafoods/page-contato.php:112
+msgid "Clique aqui."
+msgstr ""
+
+#: themes/enovafoods/page-contatos.php:37
+msgid ""
+"Para enviar uma mensagem é necessário estar logado. Entre com sua conta ou "
+"se você ainda não possui uma, cadastre-se preenchendo os campos abaixo"
+msgstr ""
+"Para enviar un mensaje es necesario estar logado. Entre con su cuenta o si "
+"usted todavía no tiene una, regístrese llenando los campos a seguir:"
+
+#: themes/enovafoods/page-contatos.php:40
+msgid "Já tenho uma conta Enova"
+msgstr "Ya tengo una cuenta Enova"
+
+#: themes/enovafoods/page-contatos.php:44
+msgid "OU"
+msgstr "O"
+
+#: themes/enovafoods/page-email.php:112 themes/enovafoods/page-imprimir.php:101
+msgid "Falha ao enviar a mensagem."
+msgstr ""
+
+#: themes/enovafoods/page-email.php:117 themes/enovafoods/page-imprimir.php:106
+#: themes/enovafoods/page-imprimir.php:131
+#: themes/enovafoods/parts/index/index-static.php:91
+msgid "Voltar"
+msgstr ""
+
+#: themes/enovafoods/page-gdrive.php:24
+msgid "Arquivos para desenvolvedores"
+msgstr "Archivos de la Marca para Desarrolladores"
+
+#: themes/enovafoods/page-gdrive.php:29
+#: themes/enovafoods/page-institucional.php:122
+msgid ""
+"Estamos felizes que você esteja integrando-se a Enova Foods. Reunimos alguns "
+"arquivos úteis para que você possa usá-los em seus projetos. Você pode usar "
+"o nome Enova Foods e logotipos para qualquer coisa relacionada à nossa "
+"Companhia, tais como materiais de marketing, desde que você siga nossas "
+"diretrizes de uso da marca. Sugerimos que entre em contato para mais "
+"informações e detalhes sobre a aplicação e manuseio."
+msgstr ""
+"Estamos felices que usted esté integrándose a Enova Foods. Reunimos algunos "
+"archivos útiles para que usted pueda usarlos en sus proyectos. Usted puede "
+"usar el nombre Enova Foods y logotipos para cualquier cosa relacionada a "
+"nuestra Compañía, tales como materiales de marketing, desde que usted siga "
+"nuestras directrices de uso de la marca. Sugerimos que entre en contacto "
+"para más informaciones y detalles sobre la aplicación y el manejo."
+
+#: themes/enovafoods/page-gdrive.php:41
+msgid "Para visualizar este conteúdo você precisa estar "
+msgstr ""
+
+#: themes/enovafoods/page-gdrive.php:42
+msgid "logado</a> em sua conta no Google e possuir as devidas permissões."
+msgstr ""
+
+#: themes/enovafoods/page-gdrive.php:44
+#: themes/enovafoods/page-institucional.php:132
+msgid "Entre em contato"
+msgstr "Póngase en contacto"
+
+#: themes/enovafoods/page-gdrive.php:46
+msgid "com nossa equipe para solicitar permissão."
+msgstr ""
+
+#: themes/enovafoods/page-imprimir.php:126
+msgid "Mensagem enviada com sucesso."
+msgstr ""
+
+#: themes/enovafoods/page-institucional.php:119
+msgid "Arquivos da Marca para Desenvolvedores"
+msgstr "Archivos de la Marca para Desarrolladores"
+
+#: themes/enovafoods/page-institucional.php:127
+msgid "Acesse o diretório"
+msgstr "Acceda al directorio"
+
+#: themes/enovafoods/page-institucional.php:132
+msgid "Não encontrou o arquivo que estava procurando?"
+msgstr "¿No encontró el archivo que estaba buscando? "
+
+#: themes/enovafoods/page-novidades.php:63
+msgid "NOVIDADES ENOVA FOODS"
+msgstr "NOVEDADES ENOVA FOODS"
+
+#: themes/enovafoods/page-novidades.php:68
+msgid ""
+"Fique por dentro de todas as novidades em eventos, notícias especiais, novos "
+"produtos e muito mais!"
+msgstr ""
+"¡Conozca todas las novedades en eventos, noticias especiales, nuevos "
+"productos y mucho más!"
+
+#: themes/enovafoods/page-novidades.php:117
+msgid "Continue lendo..."
+msgstr ""
+
+#: themes/enovafoods/page-novidades.php:131
+msgid ""
+"Conecte-se ainda mais com a família Enova Foods! Confira fotos, assista a "
+"vídeos e leia tudo sobre nossas últimas publicações."
+msgstr ""
+"¡Conéctese todavía más con la familia Enova Foods! Vea las fotos, asista a "
+"vídeos y lea todo sobre nuestras últimas publicaciones."
+
+#: themes/enovafoods/page-novidades.php:134
+#: themes/enovafoods/parts/pages/page-info-copy.php:77
+#: themes/enovafoods/parts/pages/page-info.php:44
+msgid "Assine nossa newsletter"
+msgstr "Suscriba nuestra newsletter"
+
+#: themes/enovafoods/page-novidades.php:138
+msgid "Não fique por fora de nenhuma novidade, assine nossa Newsletter."
+msgstr "No se quede sin ninguna novedad, suscriba nuestra Newsletter."
+
+#: themes/enovafoods/page-novidades.php:148
+msgid "Compartilhe!"
+msgstr "¡Comparta!"
+
+#: themes/enovafoods/page-receitas.php:89
+msgid "Modo de preparo"
+msgstr "Preparación"
+
+#: themes/enovafoods/page-receitas.php:90
+msgid "Assar"
+msgstr "Cocción"
+
+#: themes/enovafoods/page-receitas.php:91
+msgid "Grelhar"
+msgstr "A la parrilla"
+
+#: themes/enovafoods/page-receitas.php:92
+msgid "Cozinhar"
+msgstr "Cocinero"
+
+#: themes/enovafoods/page-receitas.php:93
+msgid "Gelar"
+msgstr "Cocer"
+
+#: themes/enovafoods/page-receitas.php:102
+msgid "Dificuldade"
+msgstr "Grado de dificultad"
+
+#: themes/enovafoods/page-receitas.php:103
+msgid "Médio"
+msgstr "Mediano"
+
+#: themes/enovafoods/page-receitas.php:104
+msgid "Fácil"
+msgstr "Fácil"
+
+#: themes/enovafoods/page-receitas.php:105
+msgid "Difícil"
+msgstr "Difícil "
+
+#: themes/enovafoods/page-receitas.php:114
+#: themes/enovafoods/single-receitas.php:117
+msgid "Ocasião"
+msgstr "Ocasión de Consumo"
+
+#: themes/enovafoods/page-receitas.php:115
+msgid "Festa"
+msgstr "Fiesta"
+
+#: themes/enovafoods/page-receitas.php:116
+msgid "Sobremesa"
+msgstr "Postre"
+
+#: themes/enovafoods/page-receitas.php:117
+msgid "Café da tarde"
+msgstr "Café de la tarde"
+
+#: themes/enovafoods/page-receitas.php:118
+msgid "Almoço"
+msgstr "Almuerzo"
+
+#: themes/enovafoods/page-receitas.php:141
+#: themes/enovafoods/single-receitas.php:76
+msgid "Envie sua receita para nós"
+msgstr "Envíenos su receta"
+
+#: themes/enovafoods/page-representantes-back.php:52
+#: themes/enovafoods/parts/pages/page-repr_static.php:45
+msgid "Pesquisar"
+msgstr "Buscar"
+
+#: themes/enovafoods/page-representantes-back.php:60
+#: themes/enovafoods/page-representantes-back.php:159
+#: themes/enovafoods/page-representantes.php:33
+#: themes/enovafoods/parts/pages/page-repr_static.php:53
+msgid "Seja um representante da Enova Foods"
+msgstr "Sea un representante de Enova Foods "
+
+#: themes/enovafoods/parts/header/header-topo.php:8
+msgid "Compartilhe:"
+msgstr "¡Comparta!"
+
+#: themes/enovafoods/parts/header/header-topo.php:27
+msgid "Portal de Boletos"
+msgstr ""
+
+#: themes/enovafoods/parts/index/index-static.php:7
+msgid "Qualidade e Inovação"
+msgstr "Calidad e Innovación"
+
+#: themes/enovafoods/parts/index/index-static.php:10
+msgid ""
+"Estas são as duas palavras que nos guiam em todas as nossas atividades para "
+"oferecer o que há de melhor para a família brasileira. Confira nossas marcas "
+"e linhas de produtos, você irá se surpreender."
+msgstr ""
+"Estas son las dos palabras que nos guían en todas nuestras actividades para "
+"ofrecer lo que existe de mejor para la familia brasileña. Conozca nuestras "
+"marcas y líneas de productos, usted se sorprenderá."
+
+#: themes/enovafoods/parts/index/index-static.php:18
+msgid "Selecione para você"
+msgstr "Seleccionado para usted"
+
+#: themes/enovafoods/parts/index/index-static.php:21
+msgid ""
+"Garantimos que nossos produtos sejam criados com todo o cuidado e carinho "
+"que as famílias merecem. E é por isso que nossos produtos são sinônimo de "
+"qualidade, sucesso e aceitação por todos que nos conhecem."
+msgstr ""
+"Garantizamos que nuestros productos sean creados con todo el cuidado y "
+"cariño que las familias merecen. Y es por eso que nuestros productos son "
+"sinónimos de calidad, éxito y aceptación por todos los que nos conocen."
+
+#: themes/enovafoods/parts/index/index-static.php:28
+msgid "Garantia e Qualidade"
+msgstr "Garantía y Calidad"
+
+#: themes/enovafoods/parts/index/index-static.php:31
+msgid ""
+"Quem experimenta confirma. Quem revende reconhece a competência dos nossos "
+"profissionais e representantes comerciais. Quem vende percebe valor, "
+"rentabilidade e uma companhia responsável e comprometida."
+msgstr ""
+"Quien prueba confirma. Quien revende reconoce la competencia de nuestros "
+"profesionales y representantes comerciales. Quien vende nota el valor, "
+"rentabilidad y una compañía responsable y comprometida."
+
+#: themes/enovafoods/parts/index/index-static.php:56
+msgid "ENTRAR"
+msgstr ""
+
+#: themes/enovafoods/parts/index/index-static.php:59
+msgid "Olá visitante, é bom ve-lo novamente."
+msgstr ""
+
+#: themes/enovafoods/parts/index/index-static.php:71
+#: themes/enovafoods/parts/index/index-static.php:95
+msgid "Esqueci minha senha"
+msgstr ""
+
+#: themes/enovafoods/parts/index/index-static.php:80
+#: themes/enovafoods/parts/index/index-static.php:116
+msgid "Ainda não possui uma conta? Clique aqui"
+msgstr ""
+
+#: themes/enovafoods/parts/index/index-static.php:99
+msgid ""
+"Insira seu endereço de e-mail para resetar sua senha. Talvez você necessite "
+"ver sua pasta de spam."
+msgstr ""
+
+#: themes/enovafoods/parts/index/index-static.php:108
+msgid "Confirmar"
+msgstr ""
+
+#: themes/enovafoods/parts/nav/nav-main.php:82
+msgid "Configurações"
+msgstr "Configuraciones"
+
+#: themes/enovafoods/parts/nav/nav-main.php:85
+msgid "Sair"
+msgstr "Salir"
+
+#: themes/enovafoods/parts/pages/page-info-copy.php:3
+#: themes/enovafoods/parts/pages/page-info.php:12
+msgid "Mantenha-se em contato"
+msgstr "Manténgase en contacto"
+
+#: themes/enovafoods/parts/pages/page-info-copy.php:10
+msgid "Para ser um representante ou receber informações comerciais:"
+msgstr ""
+
+#: themes/enovafoods/parts/pages/page-info-copy.php:15
+msgid "Contato Comercial:"
+msgstr ""
+
+#: themes/enovafoods/parts/pages/page-info-copy.php:34
+msgid "Para enviar elogios, reclamações ou tirar dúvidas sobre os produtos:"
+msgstr ""
+
+#: themes/enovafoods/parts/pages/page-info-copy.php:39
+msgid "Contato SAC:"
+msgstr ""
+
+#: themes/enovafoods/parts/pages/page-info-copy.php:54
+msgid "Horário de atendimento das 07:30 as 12:00 e das 13:30 as 17:30"
+msgstr ""
+
+#: themes/enovafoods/parts/pages/page-info-copy.php:61
+msgid "Trabalhe Conosco:"
+msgstr ""
+
+#: themes/enovafoods/parts/pages/page-info.php:13
+msgid "Registre-se se você precisa:"
+msgstr "Regístrese si lo necesita:"
+
+#: themes/enovafoods/parts/pages/page-info.php:16
+msgid "Enviar uma mensagem"
+msgstr "Enviar un mensaje"
+
+#: themes/enovafoods/parts/pages/page-info.php:17
+msgid "Ser um representante"
+msgstr "Ser un representante"
+
+#: themes/enovafoods/parts/pages/page-info.php:18
+msgid "Enviar elogio ou reclamações"
+msgstr "Enviar elogio o reclamos"
+
+#: themes/enovafoods/parts/pages/page-info.php:19
+msgid "Receber novidades da Enova Foods<Fbr> Entre outras opções..."
+msgstr ""
+
+#: themes/enovafoods/parts/pages/page-info.php:25
+msgid "E-mail SAC"
+msgstr "Correo electrónico SAC"
+
+#: themes/enovafoods/parts/pages/page-info.php:28
+#: themes/enovafoods/parts/pages/page-info.php:32
+msgid "E-mail"
+msgstr "Correo electrónico"
+
+#: themes/enovafoods/parts/pages/page-info.php:36
+#: themes/enovafoods/parts/pages/page-info.php:39
+#: themes/enovafoods/parts/pages/page-info.php:40
+#: themes/enovafoods/parts/pages/page-info.php:42
+msgid "ver no mapa"
+msgstr "ver en el mapa"
+
+#: themes/enovafoods/parts/pages/page-receitas.php:112
+#: themes/enovafoods/parts/pages/page-repr_default.php:45
+msgid "Anteriores"
+msgstr "anterior"
+
+#: themes/enovafoods/parts/pages/page-receitas.php:116
+#: themes/enovafoods/parts/pages/page-repr_default.php:49
+msgid "Próximo"
+msgstr "cerca"
+
+#: themes/enovafoods/parts/pages/page-repr_static.php:40
+msgid "Digite a palavra-chave"
+msgstr "Digite la palabra clave"
+
+#: themes/enovafoods/parts/pages/page-repr_termos.php:57
+msgid "Nenhum representante encontrado com esse termo."
+msgstr "Ningún representante encontrado con ese término."
+
+#: themes/enovafoods/searchform.php:5
+msgid "Digite a palavra chave aqui..."
+msgstr "Digite la palabra clave"
+
+#: themes/enovafoods/single-receitas.php:30
+msgid "Voltar para todas as receitas"
+msgstr ""
+
+#: themes/enovafoods/single-receitas.php:40
+#: themes/enovafoods/single-receitas.php:140
+#: themes/enovafoods/single-receitas.php:181
+msgid "Ingredientes:"
+msgstr ""
+
+#: themes/enovafoods/single-receitas.php:49
+#: themes/enovafoods/single-receitas.php:143
+#: themes/enovafoods/single-receitas.php:184
+msgid "Modo de preparo:"
+msgstr ""
+
+#: themes/enovafoods/single-receitas.php:62
+msgid "INGREDIENTES"
+msgstr ""
+
+#: themes/enovafoods/single-receitas.php:66
+msgid "MODO DE PREPARO"
+msgstr ""
+
+#: themes/enovafoods/single-receitas.php:98
+msgid "Informações da receita"
+msgstr ""
+
+#: themes/enovafoods/single-receitas.php:101
+msgid "Rendimentos"
+msgstr ""
+
+#: themes/enovafoods/single-receitas.php:101
+#: themes/enovafoods/single-receitas.php:147
+#: themes/enovafoods/single-receitas.php:188
+msgid "pessoas"
+msgstr ""
+
+#: themes/enovafoods/single-receitas.php:105
+msgid "Tempo de Preparo"
+msgstr ""
+
+#: themes/enovafoods/single-receitas.php:105
+msgid "minutos"
+msgstr ""
+
+#: themes/enovafoods/single-receitas.php:109
+msgid "Grau de Dificuldade"
+msgstr "Grado de dificultad"
+
+#: themes/enovafoods/single-receitas.php:113
+msgid "Modo de Preparo"
+msgstr ""
+
+#: themes/enovafoods/single-receitas.php:125
+#: themes/enovafoods/single-receitas.php:171
+msgid "Imprimir"
+msgstr ""
+
+#: themes/enovafoods/single-receitas.php:127
+msgid "Envie por e-mail"
+msgstr ""
+
+#: themes/enovafoods/single-receitas.php:129
+msgid "email@exemplo.com.br"
+msgstr ""
+
+#: themes/enovafoods/single-receitas.php:134
+#: themes/enovafoods/single-receitas.php:175
+msgid "Receita:"
+msgstr ""
+
+#: themes/enovafoods/single-receitas.php:137
+#: themes/enovafoods/single-receitas.php:178
+msgid "Descrição:"
+msgstr ""
+
+#: themes/enovafoods/single-receitas.php:146
+#: themes/enovafoods/single-receitas.php:187
+msgid "Rendimentos:"
+msgstr ""
+
+#: themes/enovafoods/single-receitas.php:152
+msgid "Produtos Relacionados"
+msgstr ""
+
+#: themes/enovafoods/single-receitas.php:194
+msgid "Enviar"
+msgstr ""
+
+#~ msgid "Receber novidades da Enova Foods<br> Entre outras opções..."
+#~ msgstr " Recibir novedades de Enova Foods<br> Entre otras opciones..."

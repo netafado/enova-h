@@ -1,0 +1,537 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-01-29 07:41-0200\n"
+"PO-Revision-Date: 2016-06-12 13:41-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+
+#: footer-back.php:11 footer.php:27
+msgid "Encontre-nos"
+msgstr ""
+
+#: footer-back.php:14 footer-back.php:16 footer-back.php:22 footer.php:30
+#: footer.php:32
+msgid "Fábrica"
+msgstr ""
+
+#: footer-back.php:20 footer.php:36 footer.php:38
+msgid "Escritório"
+msgstr ""
+
+#: footer-back.php:27 footer.php:43
+msgid "Newsletter"
+msgstr ""
+
+#: footer-back.php:30 footer.php:46
+msgid "Seja o primeiro a saber sobre novidades especiais, novos produtos e muitas outras coisas!"
+msgstr ""
+
+#: footer-back.php:35 footer.php:51 page-novidades.php:143
+msgid "Assine nossa Newsletter"
+msgstr ""
+
+#: footer-back.php:77 footer.php:93
+msgid "Não se esqueça de dar uma olhada em nossos"
+msgstr ""
+
+#: footer-back.php:79 footer.php:95
+msgid "Termos de Uso"
+msgstr ""
+
+#: footer-back.php:83 footer.php:99
+msgid "Políticas de Privacidade"
+msgstr ""
+
+#: footer-back.php:84 footer.php:100
+msgid "e no site do "
+msgstr ""
+
+#: footer-back.php:87 footer.php:103
+msgid "Desenvolvedor."
+msgstr ""
+
+#: footer.php:9
+msgid "Idioma"
+msgstr ""
+
+#: functions.php:309
+msgid "Dados Técnicos"
+msgstr ""
+
+#: functions.php:312
+msgid "Tabela Nutricional"
+msgstr ""
+
+#: functions.php:316
+msgid "Ingredientes"
+msgstr ""
+
+#: functions.php:708
+msgid "menu footer"
+msgstr ""
+
+#: functions.php:709
+msgid "menu header"
+msgstr ""
+
+#: functions.php:738 functions.php:747
+msgid "novidades"
+msgstr ""
+
+#: functions.php:741
+msgid "Novidades"
+msgstr ""
+
+#: functions.php:742
+msgid "Novidade"
+msgstr ""
+
+#: functions.php:751
+msgid "representantes"
+msgstr ""
+
+#: functions.php:754
+msgid "Representantes"
+msgstr ""
+
+#: functions.php:755
+msgid "Representante"
+msgstr ""
+
+#: functions.php:760
+msgid "representantes-enovas"
+msgstr ""
+
+#: functions.php:764
+msgid "receitas"
+msgstr ""
+
+#: functions.php:767
+msgid "Receitas"
+msgstr ""
+
+#: functions.php:768
+msgid "Receita"
+msgstr ""
+
+#: functions.php:773
+msgid "receitas-enovas"
+msgstr ""
+
+#: functions.php:777
+msgid "produtos"
+msgstr ""
+
+#: functions.php:780
+msgid "Produtos"
+msgstr ""
+
+#: functions.php:781
+msgid "produto"
+msgstr ""
+
+#: functions.php:786
+msgid "produtos-enova"
+msgstr ""
+
+#: marca.php:122
+msgid "Saiba mais"
+msgstr ""
+
+#: marca.php:132
+msgid "Vantagens & Benefícios"
+msgstr ""
+
+#: marca.php:152 page-institucional.php:75
+msgid "Conheça nossos produtos"
+msgstr ""
+
+#: marca.php:154
+msgid "Clique em uma das categorias abaixo e conheça nossa linha completa de produtos."
+msgstr ""
+
+#: page-busca.php:23 parts/content/search-statico.php:6
+msgid "Resultado da Busca"
+msgstr ""
+
+#: page-busca.php:87 parts/content/search-nothing.php:8
+msgid "Nenhum item encontrado."
+msgstr ""
+
+#: page-contato.php:38
+msgid "Se você possui muita informação para nos deixar, uma mensagem é um excelente meio de contato. Retornaremos o mais breve possível."
+msgstr ""
+
+#: page-contato.php:58
+msgid "Assuntos"
+msgstr ""
+
+#: page-contato.php:61
+msgid "Dúvidas"
+msgstr ""
+
+#: page-contato.php:64
+msgid "Sugestões"
+msgstr ""
+
+#: page-contato.php:67
+msgid "Reclamações"
+msgstr ""
+
+#: page-contato.php:70
+msgid "Elogios"
+msgstr ""
+
+#: page-contato.php:73
+msgid "Trabalhe conosco"
+msgstr ""
+
+#: page-contato.php:76
+msgid "Outros"
+msgstr ""
+
+#: page-contato.php:88
+msgid "Enviar Mensagem"
+msgstr ""
+
+#: page-contato.php:91
+msgid "Deseja enviar a mensagem com uma conta diferente?"
+msgstr ""
+
+#: page-contato.php:93
+msgid "Clique aqui."
+msgstr ""
+
+#: page-contatos.php:21
+msgid "Já tenho uma conta Enova"
+msgstr ""
+
+#: page-gdrive.php:24
+msgid "Arquivos para desenvolvedores"
+msgstr ""
+
+#: page-gdrive.php:29 page-institucional.php:122
+msgid "Estamos felizes que você esteja integrando-se a Enova Foods. Reunimos alguns arquivos úteis para que você possa usá-los em seus projetos. Você pode usar o nome Enova Foods e logotipos para qualquer coisa relacionada à nossa Companhia, tais como materiais de marketing, desde que você siga nossas diretrizes de uso da marca. Sugerimos que entre em contato para mais informações e detalhes sobre a aplicação e manuseio."
+msgstr ""
+
+#: page-gdrive.php:41
+msgid "Para visualizar este conteúdo você precisa estar "
+msgstr ""
+
+#: page-gdrive.php:42
+msgid "logado</a> em sua conta no Google e possuir as devidas permissões."
+msgstr ""
+
+#: page-gdrive.php:44 page-institucional.php:132
+msgid "Entre em contato"
+msgstr ""
+
+#: page-gdrive.php:46
+msgid "com nossa equipe para solicitar permissão."
+msgstr ""
+
+#: page-institucional.php:119
+msgid "Arquivos da Marca para Desenvolvedores"
+msgstr ""
+
+#: page-institucional.php:127
+msgid "Acesse o diretório"
+msgstr ""
+
+#: page-institucional.php:132
+msgid "Não encontrou o arquivo que estava procurando?"
+msgstr ""
+
+#: page-novidades.php:63
+msgid "NOVIDADES ENOVA FOODS"
+msgstr ""
+
+#: page-novidades.php:68
+msgid "Fique por dentro de todas as novidades em eventos, notícias especiais, novos produtos e muito mais!"
+msgstr ""
+
+#: page-novidades.php:117
+msgid "Continue lendo..."
+msgstr ""
+
+#: page-novidades.php:131
+msgid "Conecte-se ainda mais com a família Enova Foods! Confira fotos, assista a vídeos e leia tudo sobre nossas últimas publicações."
+msgstr ""
+
+#: page-novidades.php:134 parts/pages/page-info.php:77
+msgid "Assine nossa newsletter"
+msgstr ""
+
+#: page-novidades.php:138
+msgid "Não fique por fora de nenhuma novidade, assine nossa Newsletter."
+msgstr ""
+
+#: page-novidades.php:148
+msgid "Compartilhe!"
+msgstr ""
+
+#: page-receitas.php:89
+msgid "Modo de preparo"
+msgstr ""
+
+#: page-receitas.php:90
+msgid "Assar"
+msgstr ""
+
+#: page-receitas.php:91
+msgid "Gelar"
+msgstr ""
+
+#: page-receitas.php:92
+msgid "Cozinhar"
+msgstr ""
+
+#: page-receitas.php:101
+msgid "Dificuldade"
+msgstr ""
+
+#: page-receitas.php:102
+msgid "Médio"
+msgstr ""
+
+#: page-receitas.php:103
+msgid "Fácil "
+msgstr ""
+
+#: page-receitas.php:112 single-receitas.php:115
+msgid "Ocasião"
+msgstr ""
+
+#: page-receitas.php:113
+msgid "Festa"
+msgstr ""
+
+#: page-receitas.php:114
+msgid "Sobremesa"
+msgstr ""
+
+#: page-receitas.php:115
+msgid "Café da tarde"
+msgstr ""
+
+#: page-receitas.php:116
+msgid "Almoço"
+msgstr ""
+
+#: page-receitas.php:139 single-receitas.php:74
+msgid "Envie sua receita para nós"
+msgstr ""
+
+#: page-representantes-back.php:52 parts/pages/page-repr_static.php:45
+msgid "Pesquisar"
+msgstr ""
+
+#: page-representantes-back.php:60 page-representantes-back.php:159
+#: page-representantes.php:33 parts/pages/page-repr_static.php:53
+msgid "Seja um representante da Enova Foods"
+msgstr ""
+
+#: parts/header/header-topo.php:8
+msgid "Compartilhe:"
+msgstr ""
+
+#: parts/header/header-topo.php:27
+msgid "Portal de Boletos"
+msgstr ""
+
+#: parts/index/index-static.php:7
+msgid "Qualidade e Inovação"
+msgstr ""
+
+#: parts/index/index-static.php:10
+msgid "Estas são as duas palavras que nos guiam em todas as nossas atividades para oferecer o que há de melhor para a família brasileira. Confira nossas marcas e linhas de produtos, você irá se surpreender."
+msgstr ""
+
+#: parts/index/index-static.php:18
+msgid "Selecione para você"
+msgstr ""
+
+#: parts/index/index-static.php:21
+msgid "Garantimos que nossos produtos sejam criados com todo o cuidado e carinho que as famílias merecem. E é por isso que nossos produtos são sinônimo de qualidade, sucesso e aceitação por todos que nos conhecem."
+msgstr ""
+
+#: parts/index/index-static.php:28
+msgid "Garantia e Qualidade"
+msgstr ""
+
+#: parts/index/index-static.php:31
+msgid "Quem experimenta confirma. Quem revende reconhece a competência dos nossos profissionais e representantes comerciais. Quem vende percebe valor, rentabilidade e uma companhia responsável e comprometida."
+msgstr ""
+
+#: parts/index/index-static.php:56
+msgid "ENTRAR"
+msgstr ""
+
+#: parts/index/index-static.php:59
+msgid "Olá visitante, é bom ve-lo novamente."
+msgstr ""
+
+#: parts/index/index-static.php:71 parts/index/index-static.php:95
+msgid "Esqueci minha senha"
+msgstr ""
+
+#: parts/index/index-static.php:80 parts/index/index-static.php:116
+msgid "Ainda não possui uma conta? Clique aqui"
+msgstr ""
+
+#: parts/index/index-static.php:91
+msgid "Voltar"
+msgstr ""
+
+#: parts/index/index-static.php:99
+msgid "Insira seu endereço de e-mail para resetar sua senha. Talvez você necessite ver sua pasta de spam."
+msgstr ""
+
+#: parts/index/index-static.php:108
+msgid "Confirmar"
+msgstr ""
+
+#: parts/nav/nav-main.php:82
+msgid "Configurações"
+msgstr ""
+
+#: parts/nav/nav-main.php:85
+msgid "Sair"
+msgstr ""
+
+#: parts/pages/page-info.php:3
+msgid "Mantenha-se em contato"
+msgstr ""
+
+#: parts/pages/page-info.php:10
+msgid "Para ser um representante ou receber informações comerciais:"
+msgstr ""
+
+#: parts/pages/page-info.php:15
+msgid "Contato Comercial:"
+msgstr ""
+
+#: parts/pages/page-info.php:34
+msgid "Para enviar elogios, reclamações ou tirar dúvidas sobre os produtos:"
+msgstr ""
+
+#: parts/pages/page-info.php:39
+msgid "Contato SAC:"
+msgstr ""
+
+#: parts/pages/page-info.php:54
+msgid "Horário de atendimento das 07:30 as 12:00 e das 13:30 as 17:30"
+msgstr ""
+
+#: parts/pages/page-info.php:61
+msgid "Trabalhe Conosco:"
+msgstr ""
+
+#: parts/pages/page-repr_default.php:45
+msgid "Anteriores"
+msgstr ""
+
+#: parts/pages/page-repr_default.php:49
+msgid "Próximo"
+msgstr ""
+
+#: parts/pages/page-repr_static.php:40
+msgid "Digite a palavra-chave"
+msgstr ""
+
+#: parts/pages/page-repr_termos.php:57
+msgid "Nenhum representante encontrado com esse termo."
+msgstr ""
+
+#: searchform.php:5
+msgid "Digite a palavra chave aqui..."
+msgstr ""
+
+#: single-receitas.php:28
+msgid "Voltar para todas as receitas"
+msgstr ""
+
+#: single-receitas.php:38 single-receitas.php:138 single-receitas.php:179
+msgid "Ingredientes:"
+msgstr ""
+
+#: single-receitas.php:47 single-receitas.php:141 single-receitas.php:182
+msgid "Modo de preparo:"
+msgstr ""
+
+#: single-receitas.php:60
+msgid "INGREDIENTES"
+msgstr ""
+
+#: single-receitas.php:64
+msgid "MODO DE PREPARO"
+msgstr ""
+
+#: single-receitas.php:96
+msgid "Informações da receita"
+msgstr ""
+
+#: single-receitas.php:99
+msgid "Rendimentos"
+msgstr ""
+
+#: single-receitas.php:99 single-receitas.php:145 single-receitas.php:186
+msgid "pessoas"
+msgstr ""
+
+#: single-receitas.php:103
+msgid "Tempo de Preparo"
+msgstr ""
+
+#: single-receitas.php:103
+msgid "minutos"
+msgstr ""
+
+#: single-receitas.php:107
+msgid "Grau de Dificuldade"
+msgstr ""
+
+#: single-receitas.php:111
+msgid "Modo de Preparo"
+msgstr ""
+
+#: single-receitas.php:123 single-receitas.php:169
+msgid "Imprimir"
+msgstr ""
+
+#: single-receitas.php:125
+msgid "Envie por e-mail"
+msgstr ""
+
+#: single-receitas.php:132 single-receitas.php:173
+msgid "Receita:"
+msgstr ""
+
+#: single-receitas.php:135 single-receitas.php:176
+msgid "Descrição:"
+msgstr ""
+
+#: single-receitas.php:144 single-receitas.php:185
+msgid "Rendimentos:"
+msgstr ""
+
+#: single-receitas.php:150
+msgid "Produtos Relacionados"
+msgstr ""
+
+#: single-receitas.php:192
+msgid "Enviar"
+msgstr ""
