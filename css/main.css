@@ -1084,6 +1084,49 @@ a.next.page-numbers::after, a.prev.page-numbers::after {
   border-radius: 3px;
   top: 72px;
 }
+
+#menu-menu-principal > li.menu-item ul.sub-menu{
+  display: none;
+  position: absolute;
+  background: white;
+  padding: 10px 20px;
+  right: 0;
+  line-height: 30px;
+  border: 1px solid #D9D9D9;
+  z-index: 999;
+  right: -30px;
+  border-radius: 3px;
+  top: 72px;
+}
+
+#menu-menu-principal > li.menu-item ul.sub-menu li{
+  line-height: 20px;
+  margin-top:10px;
+}
+
+#header-mobile > li.menu-item ul.sub-menu{
+  display: flex;
+  position: absolute;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background: white;
+  padding: 5px 20px;
+  right: 0;
+  line-height: 1;
+  border: 1px solid #D9D9D9;
+  z-index: 999999;
+  left: 10px;
+  border-radius: 3px;
+  min-width: 440px
+}
+
+#header-mobile > li.menu-item ul.sub-menu li{
+  padding: 0 20px;
+  font-size: 10px
+}
+.menu-item{
+  position: relative;
+}
 .compartilhamento-novidades > div{
   display: inline-block;
   vertical-align: middle!important;
@@ -1423,3 +1466,4 @@ div.hold-banner [class^="huge_it_slideshow"]{
 .selector-recipes{
   min-width: 200px;
 }
+

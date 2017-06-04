@@ -77,6 +77,7 @@ Menu parte principal
 							<?php } ?>
 							<img style="width: 25px;" src="<?php echo get_theme_root_uri(); ?>/enovafoods/img/icon-user.png"/>
 						</a>
+
 						<div class="login-menu">
 							<a class="ft-gray" href="<?php echo $link_contato_page ?>">
 								<?php _e('Configurações', 'enova-foods') ?>

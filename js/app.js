@@ -26,3 +26,22 @@ window.onload = function(){
 
 	
 }
+
+j('#header-mobile > li.menu-item ul.sub-menu').hide();
+
+j('#header-mobile > li.menu-item').on('click', 
+	function(){
+		console.log('x');
+		j(this).find('.sub-menu').fadeToggle();
+});
+
+j('#menu-menu-principal > li.menu-item').on('click', 
+	function(){
+		console.log('x');
+		j(this).find('.sub-menu').fadeToggle();
+});
+
+j('#menu-menu-principal > li > ul.sub-menu').on('mouseleave', 
+	function(){
+		j(this).fadeOut(1000);
+	});
